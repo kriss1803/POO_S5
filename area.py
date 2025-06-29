@@ -22,7 +22,7 @@ class Cuadrado:
 # Función principal que controla el flujo del programa
 def main():
     # Mensaje de bienvenida (tipo string)
-    mensaje_bienvenida: str = "Bienvenido al programa orientado a objetos para calcular el área de un cuadrado."
+    mensaje_bienvenida: str = "Bienvenido al programa para calcular el área de un cuadrado."
     print(mensaje_bienvenida)
 
     # Solicitar al usuario la longitud del lado
